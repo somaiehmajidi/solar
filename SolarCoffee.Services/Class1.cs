@@ -1,5 +1,8 @@
-﻿namespace SolarCoffee.Services;
-public class Class1
-{
+﻿using System;
 
+namespace SolarCoffee.Services
+{
+    public class Class1
+    {
+    }
 }
